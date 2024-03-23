@@ -1,0 +1,3 @@
+/home/rma0lh0/CLionProjects/adivinhacao/cmake-build-debug/CMakeFiles/adivinhacao.dir
+/home/rma0lh0/CLionProjects/adivinhacao/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rma0lh0/CLionProjects/adivinhacao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
